@@ -1,0 +1,114 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Monster Widget"
+msgstr ""
+
+#. Short description.
+msgid "Provides a quick and easy method of adding all core widgets to a sidebar for testing purposes."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Monster widget will appear in your list of available widgets."
+msgstr ""
+
+#. Screenshot description.
+msgid "Drag it to a widget area to create an instance."
+msgstr ""
+
+#. Screenshot description.
+msgid "View your site and see that all core widgets are displayed!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The Monster widget consolidates all 13 core widgets into a single widget enabling theme developers to create multiple instances with ease. It has been created to save time during theme development and review by minimizing the steps needed to populate a sidebar with widgets. The Monster widget is not designed for use in production."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Log in and navigate to Plugins &rarr; Add New."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Type \"Monster Widget\" into the Search input and click the \"Search Widgets\" button."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Locate the Monster Widget in the list of search results and click \"Install Now\"."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click the \"Activate Plugin\" link at the bottom of the install screen."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Navigate to Appearance &rarr; Widgets and <a href=\"http://codex.wordpress.org/WordPress_Widgets#Activate_Widgets\">create a new instance</a>."
+msgstr ""
+
+#. Found in installation list item.
+msgid "<a href=\"http://wordpress.org/extend/plugins/monster-widget/\">Download</a> the plugin from WordPress.org."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unzip the package and move to your plugins directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Log into WordPress and navigate to the \"Plugins\" screen."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Locate \"Monster Widget\" in the list and click the \"Activate\" link."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "This plugin can be installed directly from your site."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "It can also be installed manually."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added test photograph by directly to the plugin. Thanks to <a href=\"http://profiles.wordpress.org/rarst\">Rarst</a> for the bug report."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add a really long select element to the text widget. See <a href=\"https://github.com/Automattic/_s/pull/99\">_s issue #99</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add a smiley to the image caption."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove the \"pipe test\"."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bump version number."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update Changelog."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Create custom cache key for the Recent Posts widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Only add the Links widget when it has been registered."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Original Release."
+msgstr ""
+
+#. Found in faq header.
+msgid "Why was the pipe test removed in version 0.3"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A couple members of the Theme Team at Automattic had a discussion about the relevance of this test and we came to the conclusion that it is rather unnatural. Moving forward it would be best to only include markup and data that best represent actual use cases."
+msgstr ""
